@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ⬇️ Codex'i indir
+    url: https://codex.numexai.com.tr
+    about: IDE, VS Code eklentisi ve CLI.
+  - name: 🧰 Numex SDK (açık kaynak)
+    url: https://github.com/mobilcep/numex-sdk
+    about: Codex'i kendi kodundan çalıştır.
+  - name: 🔒 Güvenlik bildirimi
+    url: mailto:destek@numexai.com.tr
+    about: Güvenlik açıklarını e-postayla bildir.

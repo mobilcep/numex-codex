@@ -1,0 +1,44 @@
+name: 🐞 Hata bildir
+description: Numex Codex'te (IDE, VS Code, CLI, Web) bir hata bildir
+labels: ["hata"]
+body:
+  - type: dropdown
+    id: kapi
+    attributes:
+      label: Hangi Codex?
+      options: [Codex IDE (masaüstü), VS Code eklentisi, Codex CLI, Codex Web, Uzaktan PC köprüsü]
+    validations:
+      required: true
+  - type: input
+    id: surum
+    attributes:
+      label: Sürüm ve işletim sistemi
+      placeholder: "ör. IDE v2.9.59 · Windows 11  /  CLI v3.3.10 · Node 22 · Ubuntu"
+    validations:
+      required: true
+  - type: dropdown
+    id: mod
+    attributes:
+      label: Hangi mod?
+      options: [Sohbet, Plan, Otonom, Hata Avcısı, Konsey, Misyon, Bilmiyorum]
+  - type: textarea
+    id: ne-oldu
+    attributes:
+      label: Ne oldu?
+    validations:
+      required: true
+  - type: textarea
+    id: adimlar
+    attributes:
+      label: Nasıl tekrarlanır?
+      placeholder: |
+        1. numex "..." yazdım
+        2. ...
+  - type: textarea
+    id: log
+    attributes:
+      label: Log / konsey raporu / ekran görüntüsü
+      description: "`.numex/logs` veya `.numex/audit/audit-trail.jsonl`'den ilgili satırlar işe yarar. Token, e-posta, API anahtarı gibi bilgileri gizle."
+  - type: markdown
+    attributes:
+      value: "🔒 Güvenlik açığı mı? Lütfen issue açma: destek@numexai.com.tr"
