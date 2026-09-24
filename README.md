@@ -11,7 +11,7 @@
 [![Site](https://img.shields.io/badge/codex.numexai.com.tr-00C9A7?style=for-the-badge)](https://codex.numexai.com.tr)
 [![IDE](https://img.shields.io/badge/IDE-v2.9.59-0A1628?style=for-the-badge)](https://codex.numexai.com.tr)
 [![CLI](https://img.shields.io/badge/CLI-v3.3.10-0A1628?style=for-the-badge)](https://codex.numexai.com.tr)
-[![SDK](https://img.shields.io/badge/SDK-açık_kaynak-0A1628?style=for-the-badge)](https://github.com/mobilcep/numex-sdk)
+[![SDK](https://img.shields.io/badge/SDK-açık_kaynak-0A1628?style=for-the-badge)](https://github.com/numexai/numex-sdk)
 
 🇹🇷 Türkçe · [🇬🇧 English](README.en.md)
 
@@ -25,7 +25,7 @@ Karmaşık işlerde tek başına değil, dört uzmandan oluşan bir **Konsey** i
 
 > 📌 Bu depo Numex Codex'in **tanıtım, dokümantasyon ve topluluk** deposudur. Hata bildirimleri,
 > öneriler ve tartışmalar burada; sürümler [codex.numexai.com.tr](https://codex.numexai.com.tr)'den
-> indirilir. Açık kaynak SDK: [numex-sdk](https://github.com/mobilcep/numex-sdk).
+> indirilir. Açık kaynak SDK: [numex-sdk](https://github.com/numexai/numex-sdk).
 
 ## 📑 İçindekiler
 
@@ -54,7 +54,7 @@ Karmaşık işlerde tek başına değil, dört uzmandan oluşan bir **Konsey** i
 | 🌐 **Codex Web** | Tarayıcı | Yok | Kurulumsuz, "sohbet eder gibi" hızlı proje |
 
 Hepsi aynı **Numex Çekirdeği**'ni kullanır: terminaldeki komut ile editördeki buton birebir aynı
-davranır. Programatik erişim için: [Numex SDK](https://github.com/mobilcep/numex-sdk).
+davranır. Programatik erişim için: [Numex SDK](https://github.com/numexai/numex-sdk).
 
 ## ⚡ Hızlı başlangıç
 
@@ -244,8 +244,8 @@ Güncel fiyatlar: [numexai.com.tr](https://numexai.com.tr).
 | 🏛️ [Konsey nasıl çalışır?](docs/konsey.md) | 4 uzman, bütçe seviyeleri, FinishGate, konsey raporu |
 | ⌨️ [Komutlar ve kısayollar](docs/komutlar.md) | CLI komutları, IDE komut paleti |
 | 🧠 [.numex klasörü](docs/numex-klasoru.md) | Ajanın şeffaf hafızası |
-| 🌐 [Numex ekosistemi](https://github.com/mobilcep/numex_nedir) | Numex Ailesi'nin tamamı |
-| 🧰 [Numex SDK](https://github.com/mobilcep/numex-sdk) | Codex'i kendi kodundan çalıştır |
+| 🌐 [Numex ekosistemi](https://github.com/numexai/numex_nedir) | Numex Ailesi'nin tamamı |
+| 🧰 [Numex SDK](https://github.com/numexai/numex-sdk) | Codex'i kendi kodundan çalıştır |
 
 ## 🤝 Topluluk
 

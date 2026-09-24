@@ -21,7 +21,7 @@ Tell it what you want in plain language; it **plans, writes, runs and tests** th
 
 > 📌 This is Codex's showcase, documentation and community repo. Downloads:
 > [codex.numexai.com.tr](https://codex.numexai.com.tr). Open-source SDK:
-> [numex-sdk](https://github.com/mobilcep/numex-sdk).
+> [numex-sdk](https://github.com/numexai/numex-sdk).
 
 ## 🚪 Four doors, one agent
 

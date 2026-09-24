@@ -4,7 +4,7 @@ contact_links:
     url: https://codex.numexai.com.tr
     about: IDE, VS Code eklentisi ve CLI.
   - name: 🧰 Numex SDK (açık kaynak)
-    url: https://github.com/mobilcep/numex-sdk
+    url: https://github.com/numexai/numex-sdk
     about: Codex'i kendi kodundan çalıştır.
   - name: 🔒 Güvenlik bildirimi
     url: mailto:destek@numexai.com.tr
